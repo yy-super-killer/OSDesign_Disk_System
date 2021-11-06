@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="Disk_System:jar">
+    <output-path>$USER_HOME$/Desktop/新建文件夹/新导包尝试</output-path>
+    <root id="archive" name="Disk_System_jar.jar">
+      <element id="archive" name="Disk_System.jar">
+        <element id="module-output" name="Disk_System" />
+      </element>
+      <element id="library" level="project" name="lib" />
+    </root>
+  </artifact>
+</component>
