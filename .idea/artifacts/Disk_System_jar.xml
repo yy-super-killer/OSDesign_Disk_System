@@ -5,7 +5,6 @@
       <element id="archive" name="Disk_System.jar">
         <element id="module-output" name="Disk_System" />
       </element>
-      <element id="library" level="project" name="lib" />
     </root>
   </artifact>
 </component>
